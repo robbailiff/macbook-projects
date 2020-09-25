@@ -1,0 +1,363 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"__",
+				"__main__"
+			],
+			[
+				"de",
+				"deleteBook"
+			],
+			[
+				"re",
+				"render_template"
+			],
+			[
+				"boo",
+				"book_id"
+			],
+			[
+				"book",
+				"bookToDelete"
+			],
+			[
+				"ed",
+				"editedBook"
+			],
+			[
+				"se",
+				"sessionmaker"
+			],
+			[
+				"cre",
+				"create_engine"
+			],
+			[
+				"dec",
+				"declarative_base"
+			],
+			[
+				"image",
+				"image"
+			],
+			[
+				"height",
+				"height"
+			],
+			[
+				"bac",
+				"background_image"
+			],
+			[
+				"imag",
+				"image"
+			],
+			[
+				"run",
+				"run_game_loop"
+			],
+			[
+				"player",
+				"player_character"
+			],
+			[
+				"is",
+				"is_game_over"
+			],
+			[
+				"pla",
+				"player_character"
+			],
+			[
+				"w",
+				"width"
+			],
+			[
+				"enem",
+				"enemy_0"
+			],
+			[
+				"SPEED",
+				"SPEED"
+			],
+			[
+				"K",
+				"K_DOWN"
+			],
+			[
+				"Game",
+				"GameObject"
+			],
+			[
+				"y",
+				"y_pos"
+			],
+			[
+				"x",
+				"x_pos"
+			],
+			[
+				"im",
+				"image_path"
+			],
+			[
+				"S",
+				"SCREEN_HEIGHT"
+			],
+			[
+				"play",
+				"player_image"
+			],
+			[
+				"SC",
+				"SCREEN_TITLE"
+			],
+			[
+				"event",
+				"event"
+			],
+			[
+				"game",
+				"game_screen"
+			],
+			[
+				"Sc",
+				"SCREEN_HEIGHT"
+			],
+			[
+				"Scree",
+				"SCREEN_WIDTH"
+			],
+			[
+				"pro",
+				"project_detail"
+			],
+			[
+				"P",
+				"projects"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "main.py",
+			"settings":
+			{
+				"buffer_size": 632,
+				"encoding": "UTF-8",
+				"line_ending": "Unix",
+				"name": "from flask import Flask"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/Heather/Documents/rob_projects/flaskProject/database_setup.py",
+		"/Users/Heather/Documents/rob_projects/flaskProject/app.py",
+		"/Users/Heather/Documents/rob_projects/flaskProject/template/deleteBook.html",
+		"/Users/Heather/Documents/rob_projects/flaskProject/template/editBook.html",
+		"/Users/Heather/Documents/rob_projects/flaskProject/template/newBook.html",
+		"/Users/Heather/Documents/rob_projects/flaskProject/populate.py",
+		"/Users/Heather/Documents/rob_projects/flaskProject/template/books.html",
+		"/Users/Heather/Documents/rob_projects/zenva/shapes.py",
+		"/Users/Heather/Documents/rob_projects/zenva/# Basic_Template.py",
+		"/Users/Heather/Documents/rob_projects/Pygame/blankpygame.py",
+		"/Users/Heather/Documents/rob_projects/blankpygame.py",
+		"/Users/Heather/Documents/rob_projects/portfolio/projects/views.py",
+		"/Users/Heather/Documents/rob_projects/portfolio/projects/templates/project_detail.html",
+		"/Users/Heather/Documents/rob_projects/portfolio/hello_world/templates/hello_world.html",
+		"/Users/Heather/Documents/rob_projects/portfolio/projects/templates/project_index.html",
+		"/Users/Heather/Documents/rob_projects/portfolio/portfolio/templates/base.html",
+		"/Users/Heather/Documents/rob_projects/portfolio/projects/urls.py",
+		"/Users/Heather/Documents/rob_projects/portfolio/portfolio/urls.py",
+		"/Users/Heather/Documents/rob_projects/portfolio/projects/models.py",
+		"/Users/Heather/Documents/rob_projects/portfolio/portfolio/settings.py",
+		"/Users/Heather/Documents/rob_projects/portfolio/hello_world/urls.py",
+		"/Users/Heather/Documents/rob_projects/portfolio/portfolio/path_test.py",
+		"/Users/Heather/Documents/rob_projects/portfolio/portfolio/django_server.sublime-project"
+	],
+	"find":
+	{
+		"height": 0.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "main.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 632,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								632,
+								632
+							]
+						],
+						"settings":
+						{
+							"auto_name": "from flask import Flask",
+							"syntax": "Packages/Python/Python.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "onlineapp.sublime-project",
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

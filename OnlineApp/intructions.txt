@@ -1,0 +1,24 @@
+Intructions
+
+In virtual environment type the following commands:
+
+source '/Users/Heather/Documents/rob_projects/google-cloud-sdk/path.bash.inc' 
+source '/Users/Heather/Documents/rob_projects/google-cloud-sdk/completion.bash.inc'
+
+The first command updates PATH for the Google Cloud SDK, and the second line enables bash completion for gcloud.
+
+Next type in the following command which connects you to your google account:
+
+gcloud auth login 'robbailiff@googlemail.com'
+
+Next type in the following command and project id (which you previously set up) to set the project which you will write your app to:
+
+gcloud config set project sage-now-244021
+
+Now type the following command to deploy your app:
+
+gcloud app deploy
+
+After that process is complete, type the following command to view your app:
+
+gcloud app browse
